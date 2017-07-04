@@ -12,7 +12,7 @@
 もくもく会で、特にやることがなければこれを読むことになっている。Haskell入門では今一番いい本だと思う。通称「すごいH本」。
 
 ### [Hackage](https://hackage.haskell.org/)
-パッケージリポジトリ。ほぼ全てのパッケージはここにアップロードされる。
+パッケージリポジトリ。ほぼ全てのパッケージがここにアップロードされている。
 
 ### [Intellij-Haskell](https://github.com/rikvdkleij/intellij-haskell)
 
