@@ -4,7 +4,7 @@
 
 主に Wiki、適宜 issue も活用していきましょう！
 
-![](sharo.png)
+![sharo having h book](img/sharo.png)
 
 ## リンクとか
 
@@ -18,3 +18,5 @@
 参考に。
 
 ### [SublimeHaskell](https://github.com/SublimeHaskell/SublimeHaskell)
+
+![SublimeHaskell](img/sublimehaskell.png)
