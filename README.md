@@ -35,4 +35,6 @@
 
 ### [SublimeHaskell](https://github.com/SublimeHaskell/SublimeHaskell)
 
+[Sublime Text 3 にHaskellの開発環境を構築する](http://qiita.com/t-yng/items/a5c79e7f497674cabc51)
+
 ![SublimeHaskell](img/sublimehaskell.png)
