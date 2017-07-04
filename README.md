@@ -17,14 +17,14 @@
 ### [谷口のGitHubにあるHaskellのリポジトリ](https://github.com/cohei?utf8=✓&tab=repositories&q=&type=source&language=haskell)
 参考に。
 
-### IntelliJ IDEA での開発
+### [Intellij-Haskell](https://github.com/rikvdkleij/intellij-haskell)
 
 1. IntelliJ IDEAを[ダウンロード](https://www.jetbrains.com/idea/download)してインストールする。Community版が無料です。
 2. IDEAを起動します。
 3. pluginをinstallする。
     - Configure -> plugins -> browse repositories
-    - intellij-haskellを検索する。
-    - intellij-haskellをinstallする。
+    - Intellij-Haskellを検索する。
+    - Intellij-Haskellをinstallする。
 4. IDEAを再起動する。
 5. 新規projectを作成する。
     - Haskell moduleを選択する。
