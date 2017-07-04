@@ -22,8 +22,8 @@
 1. IntelliJ IDEAを[ダウンロード](https://www.jetbrains.com/idea/download)してインストールする。Community版が無料です。
 2. IDEAを起動します。
 3. pluginをinstallする。
-    - Configure -> plugins -> browse repositories
-    - ntellij-haskellを検索する。
+    - Configure -> plugins -> browse repositories
+    - intellij-haskellを検索する。
     - intellij-haskellをinstallする。
 4. IDEAを再起動する。
 5. 新規projectを作成する。
