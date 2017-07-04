@@ -14,9 +14,6 @@
 ### [Hackage](https://hackage.haskell.org/)
 パッケージリポジトリ。ほぼ全てのパッケージはここにアップロードされる。
 
-### [谷口のGitHubにあるHaskellのリポジトリ](https://github.com/cohei?utf8=✓&tab=repositories&q=&type=source&language=haskell)
-参考に。
-
 ### [Intellij-Haskell](https://github.com/rikvdkleij/intellij-haskell)
 
 1. IntelliJ IDEAを[ダウンロード](https://www.jetbrains.com/idea/download)してインストールする。Community版が無料です。
@@ -38,3 +35,6 @@
 [Sublime Text 3 にHaskellの開発環境を構築する](http://qiita.com/t-yng/items/a5c79e7f497674cabc51)
 
 ![SublimeHaskell](img/sublimehaskell.png)
+
+### [谷口のGitHubにあるHaskellのリポジトリ](https://github.com/cohei?utf8=✓&tab=repositories&q=&type=source&language=haskell)
+参考に。
