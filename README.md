@@ -2,7 +2,7 @@
 
 仲間内の Haskell もくもく会で共有する tips 置き場です。
 
-主に Wiki、適宜 issue も活用していきましょう！
+詰まっているところとか適宜 issue も活用して相談したりしていきましょう！
 
 ![sharo having h book](img/sharo.png)
 
