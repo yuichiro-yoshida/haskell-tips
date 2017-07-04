@@ -16,3 +16,5 @@ $ stack ghci
 で対話モードが起動できます。
 
 また、ほんとうにちょっと試すだけなら Web にもインタープリタがあります。 https://www.tryhaskell.org
+
+ghci のヘルプは `:help` です。 ghci 内で使えるコマンドが一覧できます。
