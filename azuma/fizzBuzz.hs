@@ -1,5 +1,3 @@
-module Fizzbuzz where
-
 fizz = "fizz"
 buzz = "buzz"
 fizzBuzz = fizz ++ buzz
