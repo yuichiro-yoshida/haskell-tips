@@ -1,4 +1,4 @@
-# SublimeHaskell & SublimeREPL
+# [SublimeHaskell](https://github.com/SublimeHaskell/SublimeHaskell) & [SublimeREPL](https://github.com/wuub/SublimeREPL)
 静的構文チェック、コード補完、定義ジャンプができるようになる SublimeHaskell と REPL の環境 (SublimeREPL) を SublimeText3 上に構築します。
 
 イメージ。
