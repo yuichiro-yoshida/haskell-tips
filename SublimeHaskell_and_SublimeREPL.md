@@ -26,14 +26,13 @@
 10. SublimeHaskell は自動で実行される。SublimeREPL は、ロードしたい .hs ファイルを開いている状態で、 `Tools > SublimeREPL > Haskell` を選択して起動する。`View > Layout > Columns: 2` を使って画面を2分割すると見やすい。
 
 # 注意点
-- 各ファイルには必ずモジュール定義を行う
+- hsdev のエラーを防ぐため、各ファイルには必ずモジュール定義を行う ([hsdev のイシュー#35](https://github.com/mvoidex/hsdev/issues/35) 参照)
     - 1行目に `module ModuleName where` を書くとか
     - 大文字、小文字の一致に気をつける
-    - この問題は[イシュー](https://github.com/mvoidex/hsdev/issues/35)が上がっている
 - 上手く起動しない場合 (上記画像のイメージ) にならない場合、タスクマネージャから古い hsdev を落として SublimeText を再起動してみたり、手動で `hsdev start` コマンドを叩いて hsdev を起動してみたりする
     - SublimeText 上で `Ctrl + @` を叩くとコンソールを見ることができる
 
 # stack.yaml の resolver について
-- この値は [Stackage](https://www.stackage.org/) の build plan のバージョンを指す。
+- この値は [Stackage](https://www.stackage.org/) の build plan のバージョンを指す
 - build plan には、世の膨大な Haskell ライブラリが相互に衝突しないように整合性チェック済みの各ライブラリのバージョン定義が書いてある
 - もし hsdev のインストールで依存ライブラリ関連のエラーが起きる場合、この値を変更すると上手くいくかもしれない
