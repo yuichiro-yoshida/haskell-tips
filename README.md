@@ -30,11 +30,9 @@
     - project nameを決める。
     - finishを押す。
 
-### [SublimeHaskell](https://github.com/SublimeHaskell/SublimeHaskell)
+### [SublimeHaskell & SublimeREPL](SublimeHaskell_and_SublimeREPL.md)
 
-[Sublime Text 3 にHaskellの開発環境を構築する](http://qiita.com/t-yng/items/a5c79e7f497674cabc51)
-
-![SublimeHaskell](img/sublimehaskell.png)
+静的構文チェック、コード補完、定義ジャンプができるようになる SublimeHaskell と REPL の環境 (SublimeREPL) を SublimeText3 上に構築する方法を説明しています。
 
 ### [谷口のGitHubにあるHaskellのリポジトリ](https://github.com/cohei?utf8=✓&tab=repositories&q=&type=source&language=haskell)
 参考に。
