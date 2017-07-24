@@ -30,7 +30,7 @@
     - project nameを決める。
     - finishを押す。
 
-### [SublimeHaskell & SublimeREPL](SublimeHaskell_and_SublimeREPL.md)
+### [SublimeHaskell と SublimeREPL の導入](SublimeHaskellとSublimeREPLの導入.md)
 
 静的構文チェック、コード補完、定義ジャンプができるようになる SublimeHaskell と REPL の環境 (SublimeREPL) を SublimeText3 上に構築する方法を説明しています。
 
