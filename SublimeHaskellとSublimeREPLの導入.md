@@ -32,6 +32,15 @@
 - 上手く起動しない場合 (上記画像のイメージ) にならない場合、タスクマネージャから古い hsdev を落として SublimeText を再起動してみたり、手動で `hsdev start` コマンドを叩いて hsdev を起動してみたりする
     - SublimeText 上で `Ctrl + @` を叩くとコンソールを見ることができる
 
+# おすすめ
+- デフォルトでは SublimeREPL 上の入力でオートコンプリートが走って Enter を押す度に意図しない単語に変換されてしまうので、SublimeREPL のユーザ設定ファイルに下記を追加すると良いです。
+
+```
+"repl_view_settings": {
+    "auto_complete": false // changed
+}
+```
+
 # stack.yaml の resolver について
 - この値は [Stackage](https://www.stackage.org/) の build plan のバージョンを指す
 - build plan には、世の膨大な Haskell ライブラリが相互に衝突しないように整合性チェック済みの各ライブラリのバージョン定義が書いてある
