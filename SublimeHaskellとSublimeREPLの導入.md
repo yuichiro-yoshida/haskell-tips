@@ -37,7 +37,7 @@
 
 ```
 "repl_view_settings": {
-    "auto_complete": false // changed
+    "auto_complete": false
 }
 ```
 
