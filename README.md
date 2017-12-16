@@ -11,6 +11,8 @@
 ### [すごいHaskellたのしく学ぼう！](https://www.amazon.co.jp/dp/B009RO80XY)
 もくもく会で、特にやることがなければこれを読むことになっている。Haskell入門では今一番いい本だと思う。通称「すごいH本」。
 
+すごいH本は2012年の本なのでちょっと古いが、[2017年に「すごいHaskellたのしく学ぼう」を読む](https://qiita.com/Aruneko/items/e72f7c6ee49159751cba)に現在の状況との差分が書かれている。とてもありがたい記事。
+
 ### [Hackage](https://hackage.haskell.org/)
 パッケージリポジトリ。ほぼ全てのパッケージがここにアップロードされている。
 
