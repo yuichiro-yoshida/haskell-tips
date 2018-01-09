@@ -6,6 +6,10 @@
 
 ![sharo having h book](img/sharo.png)
 
+## Haskell はじめよう!
+
+[stack というツールをインストールする](https://docs.haskellstack.org/en/stable/install_and_upgrade/)のが現在のセオリーです。
+
 ## リンクとか
 
 ### [すごいHaskellたのしく学ぼう！](https://www.amazon.co.jp/dp/B009RO80XY)
